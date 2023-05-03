@@ -15,19 +15,10 @@ I'm Rabaya Aktar Rabu. I am a learner, explorer ! :-)
 👉 Node js
 👉 MongoDB
 
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Microverse
-
-## 📝 License
-
-This project is [MIT](LICENCE.md) licensed.
-
+## Projects
+🌻 [Portfolio](https://rabayarabu.github.io/Portfolio-setup-and-mobile-first/)
+🌻 [Music Conference Website](https://rabayarabu.github.io/capstone-online-website/)
+ 
 
 ### Thank you! 👋
 
