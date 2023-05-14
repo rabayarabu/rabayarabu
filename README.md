@@ -43,7 +43,7 @@
 <hr>
 <h2 align="center">🔥 General Profile Stats 🔥</h2><br>
 <hr>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=katfogy&label=Profile%20views&color=0e75b6&style=flat" alt="rabayarabu" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rabayarabu&label=Profile%20views&color=0e75b6&style=flat" alt="rabayarabu" /> </p>
 
  ![Chukwuemeka Ochuba's github stats](https://github-readme-stats.vercel.app/api?username=rabayarabu&theme=dark&show_icons=true)
  
