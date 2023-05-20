@@ -8,10 +8,10 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Hi, I'm Rabya Aktar Rabu,Full Stack Software Developer from Bangladesh.
+  Full Stack Software Engineer
   <br>
   <br>
-  👨‍🎓 I'm currently studying A Full stack Software Engineering Student at Microverse
+  👨‍🎓 Aspiring Developer
   <br>
   💻 I love learning and hearing from others 😊
   <br>
