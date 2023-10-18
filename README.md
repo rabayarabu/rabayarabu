@@ -8,14 +8,14 @@
    
 ###  <img src="/images/Developer.gif" alt="developer gif"  height="45px">  About Me:
 <p align="center">
-  Full Stack Software Engineer
+  Full Stack Software Developer
   <br>
   <br>
-  👨‍🎓 Aspiring Developer
+  👨‍🎓 Cleane code lover
   <br>
   💻 I love learning and hearing from others 😊
   <br>
-  📚 I’m currently focusing on Data Structure and Algoritms
+  📚 I’m currently focusing on Data Structure and Algorithms
   <br>
   📫 How to reach me 👇
 </p>
